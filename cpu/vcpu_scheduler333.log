@@ -1,0 +1,199 @@
+Script started on 2022-09-21 20:11:32+00:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="120" LINES="50"]
+]0;vagrant@vagrant: /vagrant/cpu/test[01;32mvagrant@vagrant[00m:[01;34m/vagrant/cpu/test[00m$ exitpython monitor.py -t runtest2.pyexit[Kpython monitor.py -t runtest2.py[1P.py3.py
+
+--------------------------------------------------
+Iteration number :  1
+0 - usage: 0.0 | mapping []
+1 - usage: 0.0 | mapping []
+2 - usage: 0.0 | mapping []
+3 - usage: 0.0 | mapping []
+
+--------------------------------------------------
+Iteration number :  2
+0 - usage: 95.0 | mapping ['aos_vm3', 'aos_vm5']
+1 - usage: 101.0 | mapping ['aos_vm8', 'aos_vm4']
+2 - usage: 106.99999999999999 | mapping ['aos_vm1', 'aos_vm6']
+3 - usage: 93.0 | mapping ['aos_vm7', 'aos_vm2']
+
+--------------------------------------------------
+Iteration number :  3
+0 - usage: 95.0 | mapping ['aos_vm3', 'aos_vm5']
+1 - usage: 100.0 | mapping ['aos_vm8', 'aos_vm4']
+2 - usage: 99.0 | mapping ['aos_vm1', 'aos_vm6']
+3 - usage: 99.0 | mapping ['aos_vm7', 'aos_vm2']
+
+--------------------------------------------------
+Iteration number :  4
+0 - usage: 98.0 | mapping ['aos_vm3', 'aos_vm5']
+1 - usage: 100.0 | mapping ['aos_vm8', 'aos_vm4']
+2 - usage: 98.0 | mapping ['aos_vm1', 'aos_vm6']
+3 - usage: 100.0 | mapping ['aos_vm7', 'aos_vm2']
+
+--------------------------------------------------
+Iteration number :  5
+0 - usage: 101.0 | mapping ['aos_vm3', 'aos_vm5']
+1 - usage: 99.0 | mapping ['aos_vm8', 'aos_vm4']
+2 - usage: 99.0 | mapping ['aos_vm1', 'aos_vm6']
+3 - usage: 100.0 | mapping ['aos_vm7', 'aos_vm2']
+
+--------------------------------------------------
+Iteration number :  6
+0 - usage: 293.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 455.0 | mapping ['aos_vm7', 'aos_vm3', 'aos_vm4']
+2 - usage: 148.0 | mapping ['aos_vm1']
+3 - usage: 374.0 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  7
+0 - usage: 105.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 102.0 | mapping ['aos_vm3', 'aos_vm4']
+2 - usage: 104.0 | mapping ['aos_vm1', 'aos_vm7']
+3 - usage: 100.0 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  8
+0 - usage: 100.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 103.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 94.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 98.0 | mapping ['aos_vm6', 'aos_vm5']
+ssh: connect to host 192.168.122.218 port 22: No route to host
+ssh: connect to host 192.168.122.180 port 22: No route to host
+ssh: connect to host 192.168.122.2 port 22: No route to host
+ssh: connect to host 192.168.122.213 port 22: No route to host
+ssh: connect to host 192.168.122.23 port 22: No route to host
+ssh: connect to host 192.168.122.80 port 22: No route to host
+ssh: connect to host 192.168.122.57 port 22: No route to host
+ssh: connect to host 192.168.122.128 port 22: No route to host
+
+--------------------------------------------------
+Iteration number :  9
+0 - usage: 100.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 100.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 97.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 98.0 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  10
+0 - usage: 98.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 100.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 100.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 94.0 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  11
+0 - usage: 98.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 101.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 97.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 99.0 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  12
+0 - usage: 94.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 101.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 96.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 97.0 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  13
+0 - usage: 100.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 99.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 99.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 99.0 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  14
+0 - usage: 99.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 102.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 98.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 96.0 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  15
+0 - usage: 101.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 100.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 94.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 97.0 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  16
+0 - usage: 100.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 101.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 99.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 95.0 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  17
+0 - usage: 98.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 99.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 93.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 90.99999999999999 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  18
+0 - usage: 100.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 101.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 96.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 93.0 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  19
+0 - usage: 98.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 101.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 96.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 96.0 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  20
+0 - usage: 100.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 100.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 98.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 98.0 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  21
+0 - usage: 99.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 101.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 98.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 97.0 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  22
+0 - usage: 99.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 102.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 96.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 96.0 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  23
+0 - usage: 98.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 95.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 101.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 98.0 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  24
+0 - usage: 99.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 102.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 95.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 96.0 | mapping ['aos_vm6', 'aos_vm5']
+
+--------------------------------------------------
+Iteration number :  25
+0 - usage: 99.0 | mapping ['aos_vm8', 'aos_vm2']
+1 - usage: 100.0 | mapping ['aos_vm1', 'aos_vm4']
+2 - usage: 96.0 | mapping ['aos_vm7', 'aos_vm3']
+3 - usage: 96.0 | mapping ['aos_vm6', 'aos_vm5']
+ssh: connect to host 192.168.122.218 port 22: Connection refused
+]0;vagrant@vagrant: /vagrant/cpu/test[01;32mvagrant@vagrant[00m:[01;34m/vagrant/cpu/test[00m$ ssh: connect to host 192.168.122.180 port 22: Connection refused
+ssh: connect to host 192.168.122.213 port 22: Connection refused
+ssh: connect to host 192.168.122.80 port 22: No route to host
+ssh: connect to host 192.168.122.57 port 22: No route to host
+ssh: connect to host 192.168.122.128 port 22: No route to host
+ssh: connect to host 192.168.122.23 port 22: No route to host
+ssh: connect to host 192.168.122.2 port 22: No route to host
+c[K^C
+]0;vagrant@vagrant: /vagrant/cpu/test[01;32mvagrant@vagrant[00m:[01;34m/vagrant/cpu/test[00m$ clear
+[H[2J[3J]0;vagrant@vagrant: /vagrant/cpu/test[01;32mvagrant@vagrant[00m:[01;34m/vagrant/cpu/test[00m$ clearpython monitor.py -t runtest3.pyclear[K[K[K[K[Kex[K[K[Kexit
+exit
+
+Script done on 2022-09-21 20:12:34+00:00 [COMMAND_EXIT_CODE="0"]
